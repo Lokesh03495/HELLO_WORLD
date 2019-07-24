@@ -1,2 +1,5 @@
 # HELLO_WORLD
-MY FIRST PROJECT
+MY FIRST PROJEct 
+  
+  im hear to learn coding
+  and explore github
